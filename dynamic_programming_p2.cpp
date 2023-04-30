@@ -1,7 +1,3 @@
-// Ved Vyas
-// 0015224466
-
-
 #include <iostream>
 #include <time.h>
 #include <math.h>
